@@ -80,9 +80,9 @@ I'm a Software Engineering undergraduate at the Federal University of Ceará (UF
 ## Contact
 
 <p align="center">
-  <a href="mailto:felipemaiacontato1@gmail.com">Email</a>
+  <a href="mailto:felipemaiacontato1@gmail.com" alt="Email">Email</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/fel0psmya/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/fel0psmya/" alt="LinkedIn">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="http://lattes.cnpq.br/8324825234142547">Lattes</a>
+  <a href="http://lattes.cnpq.br/8324825234142547" alt="Lattes">Lattes</a>
 </p>
