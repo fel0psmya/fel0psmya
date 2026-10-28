@@ -7,22 +7,22 @@ I'm a Software Engineering undergraduate at the Federal University of Ceará (UF
 <div align="center">
   <p><strong>Languages</strong></p>
   <img src="https://skillicons.dev/icons?i=java,py,js,ts,kotlin,cs&perline=6" alt="Java, Python, JavaScript, TypeScript, Kotlin, C#" />
-  <br />
+  <br /><small>&nbsp;</small>
 
   <p><strong>Backend &amp; Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,vue,vuetify,react,tailwind&perline=6" alt="Spring Boot, FastAPI, Vue.js, Vuetify, React, Tailwind CSS" />
-  <br />
+  <br /><small>&nbsp;</small>
 
   <p><strong>Databases</strong></p>
   <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase&perline=3" alt="PostgreSQL, Supabase, Firebase" />
-  <br />
+  <br /><small>&nbsp;</small>
 
   <p><strong>Desktop, Version Control &amp; Deployment</strong></p>
   <img src="https://skillicons.dev/icons?i=electron,git,github,vercel&perline=4" alt="Electron, Git, GitHub, Vercel" />
 </div>
 <br />  
 
-**Other tools used in specific projects:** Keycloak, shadcn/ui, Pytest, Radon, TEMPY, CATSPY, Jetpack Compose, Retrofit, Render, SQL.
+**Other tools used in specific projects:** Keycloak, shadcn/ui, Pytest, Radon, TEMPY, Jetpack Compose, Retrofit, Render, SQL.
 
 ## Activity
 <div align="center">
